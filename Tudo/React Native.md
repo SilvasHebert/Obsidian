@@ -1,0 +1,1 @@
+O que é: Uma biblioteca javascript utilizada para desenvolver aplicativos para os sistemas [[Android]] E iOS de forma nativa.

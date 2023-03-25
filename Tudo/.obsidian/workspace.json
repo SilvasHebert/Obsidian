@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "eda68cfddb4bf817",
+    "type": "split",
+    "children": [
+      {
+        "id": "567261c97c9c0077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10003cea2c5833ee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddcd722a47c33108",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5998a2cb71dee7d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ce30c37b00f1dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce21d5742126df09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32c4a1ea88110392",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9fb37e5149a9aed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc7cacdd7ce76357",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0a4237659192b5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6face7c5f2ad7de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f72eb7e71f23982",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ba20589af6f3b4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "445e58e88bf2b321",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ce21d5742126df09",
+  "lastOpenFiles": [
+    "Android.md",
+    "Teste/Teste.md",
+    "Teste",
+    "React Native.md",
+    "Computação/React Native.md",
+    "2023-03-24.md",
+    "Sem título.canvas",
+    "Computação/Android.md",
+    "Computação"
+  ]
+}
